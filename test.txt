@@ -1,9 +1,4 @@
 test file.
 modify something.
 dev.
-<<<<<<< HEAD
 Creating a new branch is quick AND simple.
-=======
-featurel.
-
->>>>>>> featurel
